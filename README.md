@@ -1,0 +1,1 @@
+An AI camera using Raspberry Pi 5 8gb, Raspberry Ai hat 2+ and Raspberry Camera 3 Made this for Blueprint Credits for the 3D Model SBGuy https://www.thingiverse.com/thing:6708018/files And I guess Thats all
