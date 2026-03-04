@@ -1,1 +1,2 @@
-An AI camera using Raspberry Pi 5 8gb, Raspberry Ai hat 2+ and Raspberry Camera 3 Made this for Blueprint Credits for the 3D Model SBGuy https://www.thingiverse.com/thing:6708018/files And I guess Thats all
+An AI camera using Raspberry Pi 5 8gb, Raspberry Ai hat 2+ and Raspberry Camera 3 Made this for Blueprint Credits for the 3D Model SBGuy https://www.thingiverse.com/thing:6708018/files
+I have decided to make this project as I have been fascinated by Ai and I felt this is the easiest way to enter this Ai Bubble I will also be using the components not only for the camera but later maybe as a surveillance camera??, This attached to a rc car or drone with an arm and make a Ai on wheels or in this case on propellers.
